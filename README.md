@@ -19,9 +19,10 @@
 
 [Basics](#basics)    
 [Adding and Changing Things](#adding-and-changing-things)    
-[Next Section (todo: Fix This)](#next-section)    
-[Next Section (todo: Fix This)](#next-next-section)    
-[Commands for Remotes](remote-commands.md)   
+[Undo Changes and Recover Files](#Undo-Changes-and-Recover-Files)    
+[Viewing Commits](#Viewing-Commits)
+[Branch and Merge](#Branch-and-Merge)
+[Commands for Remotes](remote-commands.md)
 [Favorites](#favorites)     
 [Resources](#resources)
 
@@ -33,24 +34,23 @@ In this file, directory paths are written with a forward slash as on MacOS, Linu
 ## Basics
 
 1. When using Git locally, what are these?  Define each one in a sentence
-   * Staging area -
-   * Working copy -
-   * master -
-   * HEAD -
+   * Staging area - This is a state that ensures that the files are ready for commit.
+   * Working copy - It is the local disk directory that contain files for use and editing.
+   * master - The initial branch that git makes when you first create a repository
+   * HEAD - The mark for the currently checked out commit is called HEAD.
 
 2. When you install git on a new machine (or in a new user account) you should perform these 2 git commands to tell git your name and email.  These values are used in commits that you make:
    ```
-   # Git configuration commands for a new account
-
-
+   git config --global user.name "Enter your name:"
+   git config --global user.email "Enter your email (my_mail@example.com):"
    ```
 
 3. There are 2 ways to create a local Git repository.  What are they?
-   - todo: briefly describe first way
-   - todo: briefly describe second way
+   - Can type git init in the project's directory that you choose.
+   - Can use git clone to clone the repository, then paste the link.
 
 4. When you create a git repository by entering `git init`, Git will create a "hidden" directory for the local repository.  Where is the directory for this local repository (relative to the directory where you typed "git init")?
-
+   - The files that we use with git init are in the same directory.
 
 
 ## Adding and Changing Things
