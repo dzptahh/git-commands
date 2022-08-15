@@ -16,14 +16,14 @@
 ## Using Git
 
 
-[Basics](#basics)    
-[Adding and Changing Things](#adding-and-changing-things)    
-[Undo Changes and Recover Files](#Undo-Changes-and-Recover-Files)    
-[Viewing Commits](#Viewing-Commits)
-[Branch and Merge](#Branch-and-Merge)
-[Commands for Remotes](remote-commands.md)
-[Favorites](#favorites)     
-[Resources](#resources)
+* [Basics](#basics)    
+* [Adding and Changing Things](#adding-and-changing-things)    
+* [Undo Changes and Recover Files](#Undo-Changes-and-Recover-Files)    
+* [Viewing Commits](#Viewing-Commits)
+* [Branch and Merge](#Branch-and-Merge)
+* [Commands for Remotes](remote-commands.md)
+* [Favorites](#favorites)
+* [Resources](#resources)
 
 #### Note on Paths
 
