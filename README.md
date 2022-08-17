@@ -1,13 +1,13 @@
 # Quick Guide to Git
 
 By Danita Frikaow
-> **Instructions**
-> 
+>
+> **Instructions** 
 > 1. Read Chapters 2 & 3 of [Pro Git][ProGit]. The chapters are short.
 > 2. Answer these questions using [Markdown format][markdown-cheatsheet] (also [Github Markdown][github-markdown]). 
 > 3. Place your answers between lines beginning with 3 backquotes, which tells Markdown it should be unformatted text, and write only the commands you would type (**no** shell prompt).
 >    Indent the 3 backquotes so they line up with the question text (3 leading spaces) so Markdown formats you answer as part of the numbered item.
->    Example:
+>    Example: 
 >    ```
 >    git init
 >    ```  
@@ -17,7 +17,6 @@ By Danita Frikaow
 >   *Excellent VS Code Markdown Previewer*: the [Markdown Preview Enhanced][vscode-markdown-preview-enhanced] extension.
 
 ## Using Git
-
 
 * [Basics](#basics)    
 * [Adding and Changing Things](#adding-and-changing-things)    
