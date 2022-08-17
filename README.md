@@ -1,8 +1,9 @@
-# Quick Guide to Git
+# The Ultimate Guide to Using Git
 
-By Danita Frikaow
->
-> **Instructions** 
+***For The Impatient.***
+
+> **Instructions**
+> 
 > 1. Read Chapters 2 & 3 of [Pro Git][ProGit]. The chapters are short.
 > 2. Answer these questions using [Markdown format][markdown-cheatsheet] (also [Github Markdown][github-markdown]). 
 > 3. Place your answers between lines beginning with 3 backquotes, which tells Markdown it should be unformatted text, and write only the commands you would type (**no** shell prompt).
