@@ -1,3 +1,5 @@
+# The Ultimate Guide to Using Git
+***For The Impatient.***
 > **Instructions**
 > 
 > 1. Read Chapters 2 & 3 of [Pro Git][ProGit]. The chapters are short.
